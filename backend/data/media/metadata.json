@@ -1,0 +1,38 @@
+[
+  {
+    "id": "nasa_svs_31394_sofie_sequence_1080p",
+    "title": "NASA Studies Fire in Microgravity — microgravity fabric combustion sequence",
+    "media_type": "image",
+    "page_url": "https://svs.gsfc.nasa.gov/31394/",
+    "media_url": "https://svs.gsfc.nasa.gov/vis/a030000/a031300/a031394/RTDFS_24303R1343C_Montage-0pt2-s-apart_1080p.png",
+    "credit": "NASA Scientific Visualization Studio; technical support Amy Moran (Global Science and Technology, Inc.)",
+    "license_note": "NASA SVS source page lists Credit: NASA. Verify current NASA media usage guidance for any commercial use.",
+    "investigation": "SoFIE / microgravity solid-fuel combustion",
+    "downloaded": false,
+    "description": "Thin fabric sample burning in a quiescent microgravity chamber; source page describes 0.2-second image spacing. Not a Saffire image."
+  },
+  {
+    "id": "nasa_svs_31394_sofie_gel_image",
+    "title": "NASA Studies Fire in Microgravity — SoFIE Growth and Extinction Limits snapshots",
+    "media_type": "image",
+    "page_url": "https://svs.gsfc.nasa.gov/31394/",
+    "media_url": "https://images-assets.nasa.gov/image/jsc2023e013681/jsc2023e013681~orig.jpg",
+    "credit": "NASA",
+    "license_note": "NASA SVS source page lists Credit: NASA.",
+    "investigation": "SoFIE",
+    "downloaded": false,
+    "description": "Snapshots from SoFIE Growth and Extinction Limits; separate from the BASS/Saffire datasets in this upload."
+  },
+  {
+    "id": "nasa_svs_31394_sofie_pmma_image",
+    "title": "NASA Studies Fire in Microgravity — PMMA opposed-flow image",
+    "media_type": "image",
+    "page_url": "https://svs.gsfc.nasa.gov/31394/",
+    "media_url": "https://svs.gsfc.nasa.gov/vis/a030000/a031300/a031394/R134346C-opposed-flow-air-0.5mmPMMA-1080p.png",
+    "credit": "NASA",
+    "license_note": "NASA SVS source page lists Credit: NASA.",
+    "investigation": "SoFIE / PMMA solid-fuel combustion",
+    "downloaded": false,
+    "description": "PMMA opposed-flow flame image from the SoFIE Growth and Extinction Limits work; not represented as BASS data."
+  }
+]

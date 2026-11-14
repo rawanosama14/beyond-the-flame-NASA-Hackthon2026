@@ -1,0 +1,889 @@
+{
+  "chunk_count": 615,
+  "document_count": 28,
+  "sources": [
+    {
+      "source_file": "1-s2.0-S0010218018304395-main.pdf",
+      "title": "Flame spread: Effects of microgravity and scale",
+      "source_url": "https://doi.org/10.1016/j.combustflame.2018.10.012",
+      "source_url_status": "doi",
+      "metadata": {
+        "document_type": "research_paper",
+        "evidence_type": "experimental_and_numerical",
+        "platform": "Cygnus spacecraft",
+        "program": [
+          "SAFFIRE I",
+          "SAFFIRE II",
+          "SAFFIRE III"
+        ],
+        "gravity_conditions": [
+          "microgravity"
+        ],
+        "materials_or_fuels": [
+          "cotton-fiberglass fabric",
+          "PMMA"
+        ],
+        "topics": [
+          "flame spread",
+          "spacecraft fire safety"
+        ],
+        "methods": [
+          "spaceflight experiments",
+          "numerical analysis"
+        ],
+        "metadata_status": "curated"
+      },
+      "doi": "10.1016/j.combustflame.2018.10.012"
+    },
+    {
+      "source_file": "1-s2.0-S0010218021000821-am.pdf",
+      "title": "Observations of Long Duration Microgravity Spherical Diffusion Flames Aboard the International Space Station",
+      "source_url": "https://doi.org/10.1016/j.combustflame.2021.02.019",
+      "source_url_status": "doi",
+      "metadata": {
+        "document_type": "research_paper",
+        "evidence_type": "experimental",
+        "platform": "International Space Station",
+        "program": [],
+        "gravity_conditions": [
+          "microgravity"
+        ],
+        "materials_or_fuels": [
+          "gaseous spherical diffusion flames"
+        ],
+        "topics": [
+          "spherical diffusion flames",
+          "microgravity combustion"
+        ],
+        "methods": [
+          "long-duration spaceflight experiments"
+        ],
+        "metadata_status": "curated"
+      },
+      "doi": "10.1016/j.combustflame.2021.02.019"
+    },
+    {
+      "source_file": "1-s2.0-S0360128518301539-am.pdf",
+      "title": "Dynamics of Cool Flames",
+      "source_url": "https://doi.org/10.1016/j.pecs.2019.100787",
+      "source_url_status": "doi",
+      "metadata": {
+        "document_type": "review_paper",
+        "evidence_type": "literature_review",
+        "platform": "multiple platforms and laboratory studies",
+        "program": [],
+        "gravity_conditions": [
+          "normal gravity",
+          "microgravity"
+        ],
+        "materials_or_fuels": [
+          "n-alkane droplets",
+          "various fuels"
+        ],
+        "topics": [
+          "cool flames",
+          "low-temperature combustion",
+          "droplet combustion"
+        ],
+        "methods": [
+          "literature review",
+          "experimental and computational study review"
+        ],
+        "metadata_status": "curated"
+      },
+      "doi": "10.1016/j.pecs.2019.100787"
+    },
+    {
+      "source_file": "1-s2.0-S1540748918301573-am.pdf",
+      "title": "Oscillatory Cool Flame Combustion Behavior of Submillimeter Sized n-Alkane Droplet under Near Limit Conditions",
+      "source_url": "https://doi.org/10.1016/j.proci.2018.05.151",
+      "source_url_status": "doi",
+      "metadata": {
+        "document_type": "research_paper",
+        "evidence_type": "numerical_simulation",
+        "platform": "not_applicable",
+        "program": [],
+        "gravity_conditions": [
+          "not_specified"
+        ],
+        "materials_or_fuels": [
+          "n-heptane"
+        ],
+        "topics": [
+          "cool flames",
+          "droplet combustion",
+          "flame oscillation"
+        ],
+        "methods": [
+          "one-dimensional numerical simulation"
+        ],
+        "metadata_status": "curated"
+      },
+      "doi": "10.1016/j.proci.2018.05.151"
+    },
+    {
+      "source_file": "1-s2.0-S1540748922000670-am.pdf",
+      "title": "Critical temperature and reactant mass flux for radiative extinction of ethylene microgravity spherical diffusion flames at 1 bar",
+      "source_url": "https://doi.org/10.1016/j.proci.2022.07.043",
+      "source_url_status": "doi",
+      "metadata": {
+        "document_type": "research_paper",
+        "evidence_type": "experimental_and_numerical",
+        "platform": "International Space Station",
+        "program": [],
+        "gravity_conditions": [
+          "microgravity"
+        ],
+        "materials_or_fuels": [
+          "ethylene",
+          "oxygen",
+          "nitrogen"
+        ],
+        "topics": [
+          "spherical diffusion flames",
+          "radiative extinction"
+        ],
+        "methods": [
+          "spaceflight experiments",
+          "transient numerical modeling"
+        ],
+        "metadata_status": "curated"
+      },
+      "doi": "10.1016/j.proci.2022.07.043"
+    },
+    {
+      "source_file": "1-s2.0-S1540748922001134-am.pdf",
+      "title": "Extinction characteristics of isolated n-alkane fuel droplets during low temperature cool flame burning in air",
+      "source_url": "https://doi.org/10.1016/j.proci.2022.07.094",
+      "source_url_status": "doi",
+      "metadata": {
+        "document_type": "research_paper",
+        "evidence_type": "numerical_simulation",
+        "platform": "not_applicable",
+        "program": [
+          "FLEX (comparison data)"
+        ],
+        "gravity_conditions": [
+          "microgravity conditions modeled or compared"
+        ],
+        "materials_or_fuels": [
+          "n-heptane",
+          "n-decane",
+          "n-dodecane"
+        ],
+        "topics": [
+          "cool flames",
+          "droplet combustion",
+          "flame extinction"
+        ],
+        "methods": [
+          "numerical simulation",
+          "comparison with experimental data"
+        ],
+        "metadata_status": "curated"
+      },
+      "doi": "10.1016/j.proci.2022.07.094"
+    },
+    {
+      "source_file": "1-s2.0-S1540748924002086-am.pdf",
+      "title": "The effects of elevated pressure on the kinetics and extinction of hot, warm, and cool ethylene gaseous spherical diffusion flames",
+      "source_url": "https://doi.org/10.1016/j.proci.2024.105400",
+      "source_url_status": "doi",
+      "metadata": {
+        "document_type": "research_paper",
+        "evidence_type": "experimental_and_numerical",
+        "platform": "International Space Station for experiments",
+        "program": [],
+        "gravity_conditions": [
+          "microgravity"
+        ],
+        "materials_or_fuels": [
+          "ethylene",
+          "oxygen",
+          "nitrogen"
+        ],
+        "topics": [
+          "spherical diffusion flames",
+          "elevated pressure",
+          "cool flames",
+          "extinction"
+        ],
+        "methods": [
+          "spaceflight experiments",
+          "numerical simulations"
+        ],
+        "metadata_status": "curated"
+      },
+      "doi": "10.1016/j.proci.2024.105400"
+    },
+    {
+      "source_file": "20070017909.pdf",
+      "title": "Radiative Extinction of Gaseous Spherical Diffusion Flames in Microgravity",
+      "source_url": "https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20070017909.pdf",
+      "source_url_status": "nasa_ntrs_document",
+      "metadata": {
+        "document_type": "conference_paper",
+        "evidence_type": "experimental_and_numerical",
+        "platform": "microgravity platform not specified",
+        "program": [],
+        "gravity_conditions": [
+          "microgravity"
+        ],
+        "materials_or_fuels": [
+          "ethylene",
+          "propane",
+          "nitrogen"
+        ],
+        "topics": [
+          "spherical diffusion flames",
+          "radiative extinction"
+        ],
+        "methods": [
+          "experiments",
+          "numerical simulations"
+        ],
+        "metadata_status": "curated"
+      },
+      "doi": null
+    },
+    {
+      "source_file": "2009-PCI-Nonane-droplet-combustion-with-1fe94lx-1942xb0.pdf",
+      "title": "Nonane droplet combustion with and without buoyant convection: Flame structure, burning rate and extinction in air and helium",
+      "source_url": "https://doi.org/10.1016/j.proci.2008.06.221",
+      "source_url_status": "doi",
+      "metadata": {
+        "document_type": "conference_paper",
+        "evidence_type": "experimental",
+        "platform": "low-gravity platform not specified",
+        "program": [],
+        "gravity_conditions": [
+          "normal gravity",
+          "low gravity"
+        ],
+        "materials_or_fuels": [
+          "n-nonane",
+          "air",
+          "oxygen-helium mixture"
+        ],
+        "topics": [
+          "droplet combustion",
+          "buoyant convection",
+          "flame structure",
+          "extinction"
+        ],
+        "methods": [
+          "droplet combustion experiments"
+        ],
+        "metadata_status": "curated"
+      },
+      "doi": "10.1016/j.proci.2008.06.221"
+    },
+    {
+      "source_file": "20140006750.pdf",
+      "title": "Cool-flame extinction during n-alkane droplet combustion in microgravity",
+      "source_url": "https://doi.org/10.1016/j.combustflame.2015.01.012",
+      "source_url_status": "doi",
+      "metadata": {
+        "document_type": "conference_paper",
+        "evidence_type": "experimental",
+        "platform": "microgravity platform not specified",
+        "program": [],
+        "gravity_conditions": [
+          "microgravity"
+        ],
+        "materials_or_fuels": [
+          "n-heptane",
+          "n-octane",
+          "n-decane"
+        ],
+        "topics": [
+          "cool flames",
+          "droplet combustion",
+          "flame extinction"
+        ],
+        "methods": [
+          "microgravity droplet experiments"
+        ],
+        "metadata_status": "curated"
+      },
+      "doi": "10.1016/j.combustflame.2015.01.012"
+    },
+    {
+      "source_file": "2020-CF-Initial-diameter-effects-on-Combustion.pdf",
+      "title": "Initial diameter effects on combustion of unsupported equi-volume n-heptane/iso-octane mixture droplets and the transition to cool flame behavior",
+      "source_url": "https://doi.org/10.1016/j.combustflame.2020.06.012",
+      "source_url_status": "doi",
+      "metadata": {
+        "document_type": "research_paper",
+        "evidence_type": "experimental_and_numerical",
+        "platform": "International Space Station",
+        "program": [
+          "FLEX"
+        ],
+        "gravity_conditions": [
+          "microgravity"
+        ],
+        "materials_or_fuels": [
+          "n-heptane",
+          "iso-octane"
+        ],
+        "topics": [
+          "droplet combustion",
+          "initial droplet diameter",
+          "cool flame transition"
+        ],
+        "methods": [
+          "spaceflight experiments",
+          "detailed numerical modeling"
+        ],
+        "metadata_status": "curated"
+      },
+      "doi": "10.1016/j.combustflame.2020.06.012"
+    },
+    {
+      "source_file": "C. Li Symposium 2019.pdf",
+      "title": "Transient flame growth and spread processes over a large solid fabric in concurrent low-speed flows in microgravity – Model versus experiment",
+      "source_url": "https://doi.org/10.1016/j.proci.2018.05.168",
+      "source_url_status": "doi",
+      "metadata": {
+        "document_type": "conference_paper",
+        "evidence_type": "experimental_and_numerical",
+        "platform": "SAFFIRE-related spaceflight experiments",
+        "program": [
+          "SAFFIRE"
+        ],
+        "gravity_conditions": [
+          "microgravity"
+        ],
+        "materials_or_fuels": [
+          "solid fabric"
+        ],
+        "topics": [
+          "flame growth",
+          "flame spread",
+          "concurrent flow"
+        ],
+        "methods": [
+          "spaceflight experiment analysis",
+          "thermocouples",
+          "video analysis",
+          "3D modeling"
+        ],
+        "metadata_status": "curated"
+      },
+      "doi": "10.1016/j.proci.2018.05.168"
+    },
+    {
+      "source_file": "IAS_926-1347.pdf",
+      "title": "Automated Data Analysis for Consecutive Images from Droplet Combustion Experiments",
+      "source_url": "https://doi.org/10.5566/ias.v31.p137-148",
+      "source_url_status": "doi",
+      "metadata": {
+        "document_type": "research_paper",
+        "evidence_type": "image_analysis_methodology",
+        "platform": "not_applicable",
+        "program": [],
+        "gravity_conditions": [
+          "not_applicable"
+        ],
+        "materials_or_fuels": [
+          "droplet combustion images"
+        ],
+        "topics": [
+          "image processing",
+          "droplet measurement",
+          "combustion diagnostics"
+        ],
+        "methods": [
+          "adaptive grayscale thresholding",
+          "edge detection",
+          "circle and ellipse fitting"
+        ],
+        "metadata_status": "curated"
+      },
+      "doi": "10.5566/ias.v31.p137-148"
+    },
+    {
+      "source_file": "Interpretation_of_Backlit_Droplet_Images_from_ISS_Droplet_Combustion.pdf",
+      "title": "Interpretation of Backlit Droplet Images from ISS Droplet Combustion Experiments",
+      "source_url": "https://doi.org/10.2478/gsr-2014-0007",
+      "source_url_status": "doi",
+      "metadata": {
+        "document_type": "research_paper",
+        "evidence_type": "image_analysis",
+        "platform": "International Space Station image data",
+        "program": [
+          "FLEX",
+          "FLEX-2"
+        ],
+        "gravity_conditions": [
+          "microgravity"
+        ],
+        "materials_or_fuels": [
+          "droplet combustion images"
+        ],
+        "topics": [
+          "backlit imaging",
+          "droplet measurement",
+          "image interpretation"
+        ],
+        "methods": [
+          "Fourier optics",
+          "diffraction correction",
+          "image processing"
+        ],
+        "metadata_status": "curated"
+      },
+      "doi": "10.2478/gsr-2014-0007"
+    },
+    {
+      "source_file": "Journal_of_Combustion_2012_Shaw_Combustion_of_Methanol_Droplets.pdf",
+      "title": "Combustion of Methanol Droplets in Air-Diluent Environments with Reduced and Normal Gravity",
+      "source_url": "https://doi.org/10.1155/2012/587987",
+      "source_url_status": "doi",
+      "metadata": {
+        "document_type": "research_paper",
+        "evidence_type": "experimental",
+        "platform": "reduced-gravity platform not specified",
+        "program": [],
+        "gravity_conditions": [
+          "normal gravity",
+          "reduced gravity"
+        ],
+        "materials_or_fuels": [
+          "methanol",
+          "air",
+          "carbon dioxide",
+          "helium",
+          "xenon"
+        ],
+        "topics": [
+          "droplet combustion",
+          "diluent effects",
+          "gravity effects"
+        ],
+        "methods": [
+          "fiber-supported droplet experiments"
+        ],
+        "metadata_status": "curated"
+      },
+      "doi": "10.1155/2012/587987"
+    },
+    {
+      "source_file": "Tethered_methanol_droplet_combustion_in.pdf",
+      "title": "Tethered methanol droplet combustion in carbon-dioxide enriched environment under microgravity conditions",
+      "source_url": "https://doi.org/10.1016/j.combustflame.2011.06.014",
+      "source_url_status": "doi",
+      "metadata": {
+        "document_type": "research_paper",
+        "evidence_type": "numerical_simulation",
+        "platform": "not_applicable",
+        "program": [],
+        "gravity_conditions": [
+          "microgravity conditions modeled"
+        ],
+        "materials_or_fuels": [
+          "methanol",
+          "carbon dioxide"
+        ],
+        "topics": [
+          "droplet combustion",
+          "tether effects",
+          "CO2 enrichment"
+        ],
+        "methods": [
+          "transient one-dimensional spherical simulation"
+        ],
+        "metadata_status": "curated"
+      },
+      "doi": "10.1016/j.combustflame.2011.06.014"
+    },
+    {
+      "source_file": "UQ352844_OA.pdf",
+      "title": "Fire Safety in Space – Beyond Flammability Testing of Small Samples",
+      "source_url": "https://doi.org/10.1016/j.actaastro.2014.11.025",
+      "source_url_status": "doi",
+      "metadata": {
+        "document_type": "program_overview",
+        "evidence_type": "literature_and_program_review",
+        "platform": "Cygnus spacecraft program context",
+        "program": [
+          "SAFFIRE I",
+          "SAFFIRE II",
+          "SAFFIRE III"
+        ],
+        "gravity_conditions": [
+          "microgravity"
+        ],
+        "materials_or_fuels": [
+          "spacecraft materials"
+        ],
+        "topics": [
+          "spacecraft fire safety",
+          "flammability testing",
+          "large-scale fire behavior"
+        ],
+        "methods": [
+          "program overview",
+          "review of experimental rationale"
+        ],
+        "metadata_status": "curated"
+      },
+      "doi": "10.1016/j.actaastro.2014.11.025"
+    },
+    {
+      "source_file": "fire_detection_air_quality_sensors_spacecraft_clean.pdf",
+      "title": "Fire Detection Using Air Quality Sensors for Spacecraft-Relevant Fires",
+      "source_url": "https://doi.org/10.1016/j.firesaf.2020.102977",
+      "source_url_status": "doi",
+      "metadata": {
+        "document_type": "research_paper",
+        "evidence_type": "laboratory_sensor_evaluation",
+        "platform": "ground laboratory",
+        "program": [],
+        "gravity_conditions": [
+          "normal gravity"
+        ],
+        "materials_or_fuels": [
+          "spacecraft-relevant materials",
+          "CO",
+          "VOCs",
+          "smoke particles"
+        ],
+        "topics": [
+          "fire detection",
+          "air quality sensors",
+          "smoldering",
+          "flaming"
+        ],
+        "methods": [
+          "sensor testing",
+          "laboratory fire experiments"
+        ],
+        "metadata_status": "curated"
+      },
+      "doi": "10.1016/j.firesaf.2020.102977"
+    },
+    {
+      "source_file": "flame_spread_paper_clean.pdf",
+      "title": "Opposed-flow flame spread over thin solid fuels (descriptive title; original title unverified)",
+      "source_url": "https://doi.org/10.1016/j.combustflame.2015.10.023",
+      "source_url_status": "doi",
+      "metadata": {
+        "document_type": "research_paper",
+        "evidence_type": "experimental_numerical_and_theoretical",
+        "platform": "International Space Station",
+        "program": [],
+        "gravity_conditions": [
+          "microgravity",
+          "normal gravity"
+        ],
+        "materials_or_fuels": [
+          "thin solid fuels",
+          "PMMA"
+        ],
+        "topics": [
+          "opposed-flow flame spread",
+          "flame extinction",
+          "critical flow"
+        ],
+        "methods": [
+          "ISS experiments",
+          "scaling theory",
+          "computational modeling"
+        ],
+        "metadata_status": "partially_curated"
+      },
+      "doi": "10.1016/j.combustflame.2015.10.023"
+    },
+    {
+      "source_file": "nihms-1555213.pdf",
+      "title": "Buoyancy effects on concurrent flame spread over thick PMMA",
+      "source_url": "https://doi.org/10.1016/j.combustflame.2018.10.016",
+      "source_url_status": "doi",
+      "metadata": {
+        "document_type": "research_paper",
+        "evidence_type": "experimental",
+        "platform": "ground laboratory and Cygnus spacecraft",
+        "program": [
+          "SAFFIRE II"
+        ],
+        "gravity_conditions": [
+          "normal gravity",
+          "microgravity"
+        ],
+        "materials_or_fuels": [
+          "PMMA"
+        ],
+        "topics": [
+          "buoyancy effects",
+          "concurrent flame spread",
+          "pressure effects"
+        ],
+        "methods": [
+          "ground experiments",
+          "spaceflight experiments"
+        ],
+        "metadata_status": "curated"
+      },
+      "doi": "10.1016/j.combustflame.2018.10.016"
+    },
+    {
+      "source_file": "opposed_flow_flame_spread_pmma_clean.pdf",
+      "title": "Opposed-Flow Flame Spread over a Thin PMMA Material",
+      "source_url": "https://doi.org/10.1016/j.proci.2014.07.017",
+      "source_url_status": "doi",
+      "metadata": {
+        "document_type": "research_paper",
+        "evidence_type": "experimental_and_theoretical",
+        "platform": "ground and microgravity test environments; platform not specified",
+        "program": [
+          "JAXA SOLID COMBUSTION",
+          "JAXA FLARE context"
+        ],
+        "gravity_conditions": [
+          "normal gravity",
+          "microgravity"
+        ],
+        "materials_or_fuels": [
+          "thin PMMA"
+        ],
+        "topics": [
+          "opposed-flow flame spread",
+          "flammability limits",
+          "extinction"
+        ],
+        "methods": [
+          "experiments",
+          "scaling analysis",
+          "theoretical modeling"
+        ],
+        "metadata_status": "curated"
+      },
+      "doi": "10.1016/j.proci.2014.07.017"
+    },
+    {
+      "source_file": "s10694-019-00863-3.pdf",
+      "title": "Concurrent Flame Spread Over Two-Sided Thick PMMA Slabs in Microgravity",
+      "source_url": "https://doi.org/10.1007/s10694-019-00863-3",
+      "source_url_status": "doi",
+      "metadata": {
+        "document_type": "research_paper",
+        "evidence_type": "experimental",
+        "platform": "Cygnus spacecraft",
+        "program": [
+          "SAFFIRE"
+        ],
+        "gravity_conditions": [
+          "microgravity"
+        ],
+        "materials_or_fuels": [
+          "thick PMMA slabs"
+        ],
+        "topics": [
+          "concurrent flame spread",
+          "flame limiting length",
+          "ventilation effects"
+        ],
+        "methods": [
+          "spaceflight experiments",
+          "flame imaging"
+        ],
+        "metadata_status": "curated"
+      },
+      "doi": "10.1007/s10694-019-00863-3"
+    },
+    {
+      "source_file": "s12217-014-9372-2.pdf",
+      "title": "Droplet Combustion Experiments Aboard the International Space Station",
+      "source_url": "https://doi.org/10.1007/s12217-014-9372-2",
+      "source_url_status": "doi",
+      "metadata": {
+        "document_type": "research_paper",
+        "evidence_type": "experimental_and_theoretical",
+        "platform": "International Space Station",
+        "program": [
+          "FLEX",
+          "FLEX-2"
+        ],
+        "gravity_conditions": [
+          "microgravity"
+        ],
+        "materials_or_fuels": [
+          "n-heptane",
+          "methanol",
+          "nitrogen",
+          "carbon dioxide",
+          "helium"
+        ],
+        "topics": [
+          "droplet combustion",
+          "radiative extinction",
+          "diffusive extinction",
+          "cool flames"
+        ],
+        "methods": [
+          "ISS droplet experiments",
+          "theoretical analysis"
+        ],
+        "metadata_status": "curated"
+      },
+      "doi": "10.1007/s12217-014-9372-2"
+    },
+    {
+      "source_file": "s12217-014-9377-x.pdf",
+      "title": "ISS Droplet Combustion Experiments - Uncertainties in Droplet Sizes and Burning Rates",
+      "source_url": "https://doi.org/10.1007/s12217-014-9377-x",
+      "source_url_status": "doi",
+      "metadata": {
+        "document_type": "research_paper",
+        "evidence_type": "measurement_uncertainty_analysis",
+        "platform": "International Space Station data",
+        "program": [
+          "FLEX",
+          "FLEX-2"
+        ],
+        "gravity_conditions": [
+          "microgravity"
+        ],
+        "materials_or_fuels": [
+          "methanol",
+          "n-heptane",
+          "n-decane",
+          "propylbenzene"
+        ],
+        "topics": [
+          "measurement uncertainty",
+          "droplet diameter",
+          "burning rate"
+        ],
+        "methods": [
+          "Taylor series uncertainty propagation",
+          "local polynomial analysis"
+        ],
+        "metadata_status": "curated"
+      },
+      "doi": "10.1007/s12217-014-9377-x"
+    },
+    {
+      "source_file": "sibal_concurrent_flame_spread_clean.pdf",
+      "title": "Concurrent flame spread over SIBAL cotton-fiberglass fabric in microgravity (descriptive title; original title unverified)",
+      "source_url": "https://doi.org/10.1016/j.proci.2016.06.028",
+      "source_url_status": "doi",
+      "metadata": {
+        "document_type": "research_paper",
+        "evidence_type": "experimental_and_numerical",
+        "platform": "International Space Station, Microgravity Science Glovebox",
+        "program": [
+          "BASS",
+          "BASS-II"
+        ],
+        "gravity_conditions": [
+          "microgravity"
+        ],
+        "materials_or_fuels": [
+          "SIBAL cotton-fiberglass fabric"
+        ],
+        "topics": [
+          "concurrent flame spread",
+          "flame quenching",
+          "forced flow"
+        ],
+        "methods": [
+          "ISS experiments",
+          "video analysis",
+          "numerical modeling"
+        ],
+        "metadata_status": "partially_curated"
+      },
+      "doi": "10.1016/j.proci.2016.06.028"
+    },
+    {
+      "source_file": "thermal_regime_flame_spread_clean.pdf",
+      "title": "Thermal regime of flame spread over solid fuels (descriptive title; original title unverified)",
+      "source_url": "https://doi.org/10.1016/j.firesaf.2015.11.011",
+      "source_url_status": "doi",
+      "metadata": {
+        "document_type": "research_paper",
+        "evidence_type": "experimental_and_theoretical",
+        "platform": "International Space Station and ground experiments",
+        "program": [],
+        "gravity_conditions": [
+          "microgravity",
+          "normal gravity"
+        ],
+        "materials_or_fuels": [
+          "solid fuels",
+          "PMMA"
+        ],
+        "topics": [
+          "thermal regime",
+          "flame spread",
+          "fuel thickness"
+        ],
+        "methods": [
+          "experiments",
+          "theoretical analysis",
+          "scaling correlations"
+        ],
+        "metadata_status": "partially_curated"
+      },
+      "doi": "10.1016/j.firesaf.2015.11.011"
+    },
+    {
+      "source_file": "thermal_regime_flame_spread_pmma_clean.pdf",
+      "title": "Thermal Regime of Flame Spread over PMMA",
+      "source_url": "https://doi.org/10.1016/j.firesaf.2015.11.011",
+      "source_url_status": "doi",
+      "metadata": {
+        "document_type": "research_paper",
+        "evidence_type": "experimental_and_theoretical",
+        "platform": "International Space Station and ground experiments",
+        "program": [],
+        "gravity_conditions": [
+          "microgravity",
+          "normal gravity"
+        ],
+        "materials_or_fuels": [
+          "PMMA"
+        ],
+        "topics": [
+          "thermal regime",
+          "flame spread",
+          "fuel thickness"
+        ],
+        "methods": [
+          "experiments",
+          "theoretical analysis",
+          "scaling correlations"
+        ],
+        "metadata_status": "curated"
+      },
+      "doi": "10.1016/j.firesaf.2015.11.011"
+    },
+    {
+      "source_file": "i_Investigation.txt",
+      "title": "Computational and Experimental Analysis of SPICE Data Sets",
+      "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-60",
+      "source_url_status": "nasa_psi_record",
+      "metadata": {
+        "document_type": "PSI investigation metadata",
+        "evidence_type": "metadata_description",
+        "platform": "Ground Investigation",
+        "program": [
+          "SPICE"
+        ],
+        "topics": [
+          "SPICE",
+          "Flames",
+          "Soot",
+          "Laminar diffusion flames",
+          "Coflow"
+        ],
+        "metadata_status": "curated_source_record"
+      },
+      "doi": "10.60555/mzjm-yv57"
+    }
+  ],
+  "source_policy": "DOI or exact NASA PSI record URLs are used where verified; missing URLs are explicitly marked rather than fabricated."
+}

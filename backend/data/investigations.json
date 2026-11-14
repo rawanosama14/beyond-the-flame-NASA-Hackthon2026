@@ -1,0 +1,169 @@
+[
+  {
+    "name": "BASS",
+    "category": "Prevention",
+    "aliases": [
+      "Burning and Suppression of Solids"
+    ],
+    "rationale": "Solid-fuel burning and extinction research; the local corpus contains related BASS/BASS-II solid-fuel publications.",
+    "source_url": "https://www.nasa.gov/glenn/glenn-expertise-space-exploration/physical-sciences-program/combustion-science/"
+  },
+  {
+    "name": "BASS-II",
+    "category": "Prevention",
+    "aliases": [
+      "Burning and Suppression of Solids II"
+    ],
+    "rationale": "Follow-on solid-fuel research; local metadata associates SIBAL/PMMA literature with BASS and BASS-II.",
+    "source_url": "https://ntrs.nasa.gov/citations/20210011385"
+  },
+  {
+    "name": "SAFFIRE-I",
+    "category": "Prevention",
+    "aliases": [
+      "Saffire I",
+      "Spacecraft Fire Experiment-I"
+    ],
+    "rationale": "Large-scale spacecraft-relevant flame spread and fire growth evidence.",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-98"
+  },
+  {
+    "name": "SAFFIRE-II",
+    "category": "Prevention",
+    "aliases": [
+      "Saffire II",
+      "Spacecraft Fire Experiment-II"
+    ],
+    "rationale": "Larger-scale material burning research; local papers discuss the Saffire series.",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-99"
+  },
+  {
+    "name": "SAFFIRE-III",
+    "category": "Prevention",
+    "aliases": [
+      "Saffire III",
+      "Spacecraft Fire Experiment-III"
+    ],
+    "rationale": "Large-scale microgravity flame-spread context; test-specific numerical details require the original PSI files.",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-100"
+  },
+  {
+    "name": "SAME",
+    "category": "Detection",
+    "aliases": [
+      "Smoke Aerosol Measurement Experiment"
+    ],
+    "rationale": "Smoke/aerosol characterization that informs spacecraft fire detection.",
+    "source_url": "https://www.nasa.gov/glenn/glenn-expertise-space-exploration/physical-sciences-program/combustion-science/"
+  },
+  {
+    "name": "SAME-R",
+    "category": "Detection",
+    "aliases": [
+      "Smoke Aerosol Measurement Experiment Reflight"
+    ],
+    "rationale": "NASA PSI record describes smoke-particle size and transport, detector response, and 66 flight test points.",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-101"
+  },
+  {
+    "name": "DAFT",
+    "category": "Detection",
+    "aliases": [
+      "Dust and Aerosol Measurement Feasibility Test"
+    ],
+    "rationale": "Dust/aerosol detection hardware feasibility; related NASA context uses modified P-Trak hardware.",
+    "source_url": "https://www.nasa.gov/glenn/glenn-expertise-space-exploration/physical-sciences-program/combustion-science/"
+  },
+  {
+    "name": "DAFT-2",
+    "category": "Detection",
+    "aliases": [
+      "Dust and Aerosol Measurement Feasibility Test 2"
+    ],
+    "rationale": "Dust/aerosol measurement context; details not sufficiently represented in the local paper corpus.",
+    "source_url": "https://www.nasa.gov/glenn/glenn-expertise-space-exploration/physical-sciences-program/combustion-science/"
+  },
+  {
+    "name": "FLEX",
+    "category": "Suppression",
+    "aliases": [
+      "Flame Extinguishment Experiment",
+      "droplet combustion"
+    ],
+    "rationale": "NASA PSI record describes liquid-droplet flammability limits and gaseous suppressant investigations.",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-69"
+  },
+  {
+    "name": "FLEX-2",
+    "category": "Suppression",
+    "aliases": [
+      "Flame Extinguishment Experiment 2"
+    ],
+    "rationale": "Droplet-combustion follow-on context appears in supplied paper metadata; exact test matrix is not fully included.",
+    "source_url": "https://www.nasa.gov/glenn/glenn-expertise-space-exploration/physical-sciences-program/combustion-science/"
+  },
+  {
+    "name": "CFI",
+    "category": "Foundations",
+    "aliases": [
+      "Cool Flames Investigation"
+    ],
+    "rationale": "Cool-flame research context; do not transfer findings to solid-fuel or droplet cases without evidence.",
+    "source_url": "https://science.nasa.gov/mission/acme/"
+  },
+  {
+    "name": "ACME",
+    "category": "Foundations",
+    "aliases": [
+      "Advanced Combustion via Microgravity Experiments"
+    ],
+    "rationale": "A group of gaseous-flame investigations using the Combustion Integrated Rack; sub-experiment objectives differ.",
+    "source_url": "https://science.nasa.gov/biological-physical/investigations/acme/"
+  },
+  {
+    "name": "BRE",
+    "category": "Prevention",
+    "aliases": [
+      "ACME Burning Rate Emulator"
+    ],
+    "rationale": "NASA describes BRE as an ACME experiment focused on spacecraft material flammability and extinction behavior.",
+    "source_url": "https://science.nasa.gov/mission/acme/"
+  },
+  {
+    "name": "E-FIELD Flames",
+    "category": "Foundations",
+    "aliases": [
+      "ACME E-Field Flames",
+      "electric-field flames"
+    ],
+    "rationale": "Electric-field effects on flames; this is not a direct partial-gravity experiment.",
+    "source_url": "https://science.nasa.gov/mission/acme/"
+  },
+  {
+    "name": "CFI-G",
+    "category": "Foundations",
+    "aliases": [
+      "Cool Flames Investigation with Gases"
+    ],
+    "rationale": "Gaseous cool-flame research; retrieve source-specific tests before quoting oxygen ranges.",
+    "source_url": "https://science.nasa.gov/biological-physical/investigations/acme/"
+  },
+  {
+    "name": "SPICE",
+    "category": "Foundations",
+    "aliases": [
+      "Smoke Point in Co-flow Experiment"
+    ],
+    "rationale": "NASA PSI describes non-buoyant jet diffusion flames and co-flow effects in microgravity and analogous ground tests.",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-107"
+  },
+  {
+    "name": "SLICE",
+    "category": "Foundations",
+    "aliases": [
+      "Structure and Liftoff in Combustion Experiment"
+    ],
+    "rationale": "Combustion investigation listed by NASA; local source coverage is limited.",
+    "source_url": "https://www.nasa.gov/physical-sciences-informatics-psi/psi-investigations-by-research-area/"
+  }
+]

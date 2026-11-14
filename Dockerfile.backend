@@ -1,0 +1,23 @@
+FROM python:3.13-slim
+
+ENV PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1 \
+    PYTHONPATH=/app/backend \
+    HF_HOME=/app/.model_cache
+
+WORKDIR /app
+COPY requirements.txt /app/requirements.txt
+RUN pip install --no-cache-dir --upgrade pip \
+    && pip install --no-cache-dir -r /app/requirements.txt
+
+COPY backend/ /app/backend/
+# The integrated video endpoint reuses this original teammate pipeline and YAML config.
+COPY source_data/combustion_behavior_analysis/src/ /app/source_data/combustion_behavior_analysis/src/
+COPY source_data/combustion_behavior_analysis/configs/ /app/source_data/combustion_behavior_analysis/configs/
+
+RUN mkdir -p /app/backend/runtime/vision /app/.model_cache \
+    && useradd --create-home --uid 10001 appuser \
+    && chown -R appuser:appuser /app/backend/runtime /app/.model_cache
+USER appuser
+EXPOSE 8000
+CMD ["python", "-m", "uvicorn", "app.main:app", "--app-dir", "/app/backend", "--host", "0.0.0.0", "--port", "8000"]

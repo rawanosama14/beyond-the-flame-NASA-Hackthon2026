@@ -1,0 +1,10 @@
+**
+!requirements.txt
+!backend/
+!backend/**
+!source_data/
+!source_data/combustion_behavior_analysis/
+!source_data/combustion_behavior_analysis/src/
+!source_data/combustion_behavior_analysis/src/**
+!source_data/combustion_behavior_analysis/configs/
+!source_data/combustion_behavior_analysis/configs/**

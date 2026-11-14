@@ -1,0 +1,73 @@
+{
+  "before": {
+    "strategy": "bm25",
+    "questions": 40,
+    "retrieval_recall_at_5": 1.0,
+    "top1_expected_source_accuracy": 0.725,
+    "mean_reciprocal_rank": 0.8183,
+    "expected_source_citation_precision_at_3": 0.4917,
+    "expected_term_evidence_coverage_at_5": 0.9542,
+    "missed_question_ids": [],
+    "questions_with_missing_expected_terms": [
+      {
+        "id": "q19",
+        "missing": [
+          "air-diluent"
+        ]
+      },
+      {
+        "id": "q33",
+        "missing": [
+          "confinement size"
+        ]
+      },
+      {
+        "id": "q34",
+        "missing": [
+          "thermocouples",
+          "radiometers",
+          "anemometer"
+        ]
+      }
+    ]
+  },
+  "after": {
+    "strategy": "hybrid",
+    "questions": 40,
+    "retrieval_recall_at_5": 1.0,
+    "top1_expected_source_accuracy": 0.75,
+    "mean_reciprocal_rank": 0.8308,
+    "expected_source_citation_precision_at_3": 0.5167,
+    "expected_term_evidence_coverage_at_5": 0.9417,
+    "missed_question_ids": [],
+    "questions_with_missing_expected_terms": [
+      {
+        "id": "q05",
+        "missing": [
+          "oxygen/nitrogen"
+        ]
+      },
+      {
+        "id": "q33",
+        "missing": [
+          "confinement size"
+        ]
+      },
+      {
+        "id": "q34",
+        "missing": [
+          "thermocouples",
+          "radiometers",
+          "anemometer"
+        ]
+      },
+      {
+        "id": "q35",
+        "missing": [
+          "radiative loss"
+        ]
+      }
+    ]
+  },
+  "interpretation": "Before = BM25-only baseline. After = BM25 + TF-IDF + title boost + source-diversity reranking. Dense E5 embeddings were unavailable because the checkpoint was not supplied/downloaded. Citation precision is strict precision against the question's expected-source labels; other relevant sources can be penalized. Expected-term evidence coverage is a retrieval support proxy, not semantic answer faithfulness. Human-reviewed answer faithfulness was not measured because no expert-annotated answer set was supplied."
+}
